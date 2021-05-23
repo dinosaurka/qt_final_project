@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>sokoban_pics/brick.png</file>
+        <file>sokoban_pics/candle.png</file>
+        <file>sokoban_pics/candle_fire.png</file>
+        <file>sokoban_pics/goal_tile.png</file>
+        <file>sokoban_pics/hero.png</file>
+        <file>sokoban_pics/menu.png</file>
+        <file>sokoban_pics/tile.png</file>
+    </qresource>
+    <qresource prefix="/maps">
+        <file>maps/1.txt</file>
+        <file>maps/2.txt</file>
+        <file>maps/3.txt</file>
+        <file>maps/4.txt</file>
+        <file>maps/5.txt</file>
+    </qresource>
+    <qresource prefix="/style">
+        <file>style/style.css</file>
+    </qresource>
+</RCC>
